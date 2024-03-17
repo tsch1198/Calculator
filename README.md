@@ -56,7 +56,7 @@ A standard calculator and a currency calculator.
 
 ---
 
-## Structure chart:
+## Structure diagram:
 
 ### Info
 The structure chart was created and exported on the page [dditools.inf.tu-dresden.de](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html).
