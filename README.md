@@ -7,7 +7,7 @@ Tobias S.
 
 ## Work assignment:
 
-Python program:
+Create a Python program including:
 - Variables
 - Calculation operators
 - loops
