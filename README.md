@@ -1,62 +1,64 @@
-# Projektaufgabe SAE Python
+# Project SAE Python
 
 Tobias S.
 25.01.2024 - 15.03.2024
 
 ---
 
-## Arbeitsauftrag:
+## Work assignment:
 
-Python-Programm:
-- Variablen
-- Rechenoperatoren
-- Schleifen
-- Arrays
-- if-Bedingungen
-- Eingabe
-- Ausgabe
+Python program:
+- Variables
+- Calculation operators
+- loops
+- arrays
+- if-conditions
+- input
+- Output
 
-Erstellen eines Struktogramms von mindestens einer Funktion.
+Create a structure diagram of at least one function.
 
-Erstellen einer Readme-Datei.
+Create a readme file.
 
 ---
 
-## Programm:
+## Program:
 
-Dies ist ein Python-Taschenrechner mit 2 verschiedenen Modi. 
-Einen Standardrechner und einen Währungsrechner.
+This is a Python calculator with 2 different modes. 
+A standard calculator and a currency calculator.
 
-### Funktionen
+### Functions
 
-#### 1. Standardrechner
+#### 1. Standard calculator
 
-- Grundlegende mathematische Operationen wie Addition, Subtraktion, Multiplikation und Division.
-- Ergebnisse Runden
-- Ergebnisse Zwischenspeichern
+- Basic math operations such as addition, subtraction, multiplication and division.
+- Rounding results
+- Store results temporarily
 
-#### 2. Währungsrechner
+#### 2. Currency calculator
 
-- Eine Menge einer Ausgangswährung in eine Zielwährung umrechnen.
-- Live Aktienkurse
+- Convert a quantity of a source currency into a target currency.
+- Live stock prices
 
-### Verwendung
+### Use
 
-1. Starten Sie das Programm und wählen Sie die gewünschte Option im Hauptmenü aus.
-2. Folgen Sie den Anweisungen.
-3. Nach dem Abschluss der Berechnungen können sie das Programm schließen, indem sie entsprechende Optionen wählen.
+1. Fill in your own exchangerate-api API Key
+2. start the program and select the desired option in the main menu
+3. follow the instructions.
+4. after completing the calculations, you can close the program by selecting the appropriate options.
 
-### Anforderungen
+## Requirements
 
 - Python 3.x
-- requests-Bibilothek (installierbar mit `'pip install requests'`)
-- Eine Internetverbindung für den Währungsrechner
+- requests library (installable with `'pip install requests'`)
+- An internet connection for the currency calculator
+- An [exchangerate-api](https://www.exchangerate-api.com/) API Key
 
 ---
 
-## Struktogramm:
+## Structure chart:
 
 ### Info
-Das Struktogramm wurde auf der Seite [dditools.inf.tu-dresden.de](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) erstellt und exportiert.
+The structure chart was created and exported on the page [dditools.inf.tu-dresden.de](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html).
 
 ---
